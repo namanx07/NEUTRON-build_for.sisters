@@ -1,9 +1,4 @@
-═══════════════════════════════════
-   Website Source Code Package
-═══════════════════════════════════
 
-Downloaded from: https://bhai-dooj-demo.vercel.app/
-Domain: bhai-dooj-demo.vercel.app
 
 📂 FOLDER STRUCTURE:
 ├── index.html
